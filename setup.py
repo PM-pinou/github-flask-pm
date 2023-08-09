@@ -32,12 +32,12 @@ def get_version():
 
 
 setup(
-    name='GitHub-Flask',
+    name='Github-Flask-PM',
     version=get_version(),
-    url='http://github.com/cenkalti/github-flask',
+    url='https://github.com/PM-pinou/github-flask-pm',
     license='MIT',
-    author='Cenk Alti',
-    author_email='cenkalti@gmail.com',
+    author='PM_pinou',
+    author_email='2504420230@qq.com',
     description='GitHub extension for Flask microframework',
     long_description=__doc__,
     py_modules=['flask_github'],
